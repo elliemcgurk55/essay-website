@@ -1,3 +1,5 @@
 # essay-website
 
-https://github.com/elliemcgurk55/essay-website/jantschicholdessay.html
+https://elliemcgurk55.github.io/essay-website/jantschicholdessay.html
+
+
