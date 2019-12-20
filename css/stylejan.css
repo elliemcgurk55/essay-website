@@ -8,7 +8,7 @@
 /*---------- MAIN STYLING ----------*/
 header{
   margin: auto;
-  padding-top: 2em;
+  padding-top: 3em;
   color: rgb(250, 117, 28);
   height: 100vh;
   background-color:  rgb(250, 117, 28);;
@@ -53,6 +53,7 @@ img {
   padding: 0;
   max-width: 100%;
 }
+
 /*-------- TYPOGRAPHY ----------*/ 
 
 h1, h3 {
@@ -64,13 +65,13 @@ h1, h3 {
 h2 {
   font-weight: bolder;
   color: black;
-  text-align: right;
+  text-align: left;
 }
 
 p {font-family: 'Raleway', sans-serif;
   margin-bottom: 1em;}
 
-h1 {font-size: 2.827em;
+h1 {font-size: 3em;
     margin-top: 2em;
     margin-bottom: 0.1em;
 }
