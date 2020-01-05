@@ -82,6 +82,18 @@ margin: 3em 0 1em 0}
 h3 {font-size: 1.414em;
 margin-bottom: 1.5em;}
 
+blockquote {
+  font-size:1.7em;
+  hanging-punctuation: first;
+  text-indent: -0.0.5em;
+  color: #333
+  }
+  
+  blockquote cite {
+  font-size: 0.5em;
+  color: #333;
+  }
+
 
 
 
